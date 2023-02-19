@@ -1,0 +1,3 @@
+﻿  game.c
+g:\code\c_code\test_game\test_game\game.c(179): warning C4716: “IsWin”: 必须返回一个值
+  test_game.vcxproj -> G:\code\C_code\test_game\Debug\test_game.exe
